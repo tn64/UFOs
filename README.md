@@ -54,6 +54,7 @@ There are a number of problems with using text boxes to perform searches that fi
 </br>
 Dropdown menus would solve these problems. The menus would present only options that are in the database and provide for more efficient searching of the database.
 </br>
+</br>
 <img src="https://github.com/tn64/UFOs/blob/main/resources/State_Uppercase.png">
 
 <img src="https://github.com/tn64/UFOs/blob/main/resources/Bad_Shape.png">
