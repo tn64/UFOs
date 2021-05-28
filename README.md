@@ -41,17 +41,23 @@ And, finally, they can filter the data by the shape of the UFO:
 
 
 # Summary
-While the page is attractive and the search functions work as intended, however there is an opportunity to significantly improve the user experience by upgrading the search functionality. Specifically, there are two ways this could be improved.
+The webpage is attractive and the search functions work as intended, however there is an opportunity to significantly improve the user experience by upgrading the search functionality. Specifically, there are two ways this could be improved.
 
-1. Recommendation 1: Force users to enter by mm/dd/yyyy
+1. Recommendation 1: Change the code both to accept and to force users to enter by mm/dd/yyyy
+As currently configured (and shown below) the search will only display results when entered as m/dd/yyyy for January through September. Adding an initial 0 to those months (a common date format) will result in no results being returned. The code for this box should be updated and then force the mm/dd/yyyy format.
 
 <img src="https://github.com/tn64/UFOs/blob/main/resources/Date_Format.png">
 </br>
 
 2. Recommendation 2: Use dropdown menus instead of text boxes for the other search boxes.
+There are a number of problems with using text boxes to perform searches that fit with the data.js file. For instance (and as shown below) when using uppercase letters in the text boxes. Also, when searching by a city or country that is not in the database, the search will return no results. Additionally (again shown below), the user may not know the "shapes" available in the database. Entering a shape not found in the database will return no results.
+</br>
+Dropdown menus would solve these problems. The menus would present only options that are in the database and provide for more efficient searching of the database.
 
 <img src="https://github.com/tn64/UFOs/blob/main/resources/State_Uppercase.png">
 
 <img src="https://github.com/tn64/UFOs/blob/main/resources/Bad_Shape.png">
-
+</br>
+</br>
+<img src="">
 
