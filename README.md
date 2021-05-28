@@ -10,32 +10,32 @@ The purpose of this exercise was to create a webpage for UFOlogists to search si
 
 When a researcher initially visits the webpage, the page displays the entire database of UFO sightings in the table.
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/Main.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/Main.png"><br>
 
 
 The power of the filtering available on the page shows as the user enters criteria into the search fields. For instance, visitors can search the database by date:
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/Date.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/Date.png"><br>
 
 
 They can filter the data by city:
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/City.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/City.png"><br>
 
 
 They can filter the data by state:
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/State.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/State.png"><br>
 
 
 They can filter the data by country:
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/Country.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/Country.png"><br>
 
 
 And, finally, they can filter the data by the shape of the UFO:
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/Shape.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/Shape.png"><br>
 
 
 # Summary
@@ -43,7 +43,7 @@ While the page is attractive and the search functions work as intended, however 
 
 1. Recommendation 1: Force users to enter by mm/dd/yyyy
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/Date_Format.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/Date_Format.png"><br>
 
 
 2. Recommendation 2: Use dropdown menus instead of text boxes for the other search boxes.
