@@ -44,6 +44,6 @@ While the page is attractive and the search functions work as intended, however 
 
 <img src="https://github.com/tn64/UFOs/blob/main/resources/State_Uppercase.png">
 
-<img src="https://github.com/tn64/UFOs/blob/main/resources/Unk_Shape.png">
+<img src="https://github.com/tn64/UFOs/blob/main/resources/Bad_Shape.png">
 
 
